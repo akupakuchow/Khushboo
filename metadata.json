@@ -1,0 +1,6 @@
+{
+  "name": "Khushboo — Luxury Attar & Perfume Atelier",
+  "description": "Minimalist luxury e-commerce storefront for artisanal Attars, Eau de Parfums, curated gift sets, and a live custom combo builder with Cash on Delivery checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
